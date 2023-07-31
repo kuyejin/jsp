@@ -37,5 +37,6 @@
 <a href="test04.jsp?msg=한시간남았네">요청 정보 및 헤더 정보 이동</a><br>
 
 <a href="test06.jsp">Response_로그인창</a><br>
+<a href="test07.jsp">jsp객체</a><br>
 </body>
 </html>
