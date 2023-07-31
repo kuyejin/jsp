@@ -8,7 +8,7 @@
     <title>헤더 정보 출력하기</title>
     <%
         request.setCharacterEncoding("UTF-8");
-        String msg = request.getParameter("");
+        String msg = request.getParameter("msg");
     %>
 </head>
 <body>

@@ -36,5 +36,6 @@
 <a href="test03.jsp">설문조사(복수 값 전달) 폼 이동</a><br>
 <a href="test04.jsp?msg=한시간남았네">요청 정보 및 헤더 정보 이동</a><br>
 
+<a href="test06.jsp">Response_로그인창</a><br>
 </body>
 </html>
