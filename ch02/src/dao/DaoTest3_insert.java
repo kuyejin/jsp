@@ -1,7 +1,5 @@
 package dao;
 
-import dto.Member;
-
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -11,7 +9,7 @@ import java.util.Scanner;
 
 //insertMember()
 // 회원 가입
-public class DaoTest3 {
+public class DaoTest3_insert {
     static Connection conn = null;
     static PreparedStatement pstmt = null;
     static ResultSet rs = null;

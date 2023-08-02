@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 //deleteMember()
 // 정보삭제
-public class DaoTest5 {
+public class DaoTest5_delete {
     static Connection conn = null;
     static PreparedStatement pstmt = null;
     static ResultSet rs = null;

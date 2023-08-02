@@ -6,13 +6,11 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 //getMemberList()
 // 회원 아이디를 검색해서 정보를 추출
-public class DaoTest2 {
+public class DaoTest2_search {
     static Connection conn = null;
     static PreparedStatement pstmt = null;
     static ResultSet rs = null;

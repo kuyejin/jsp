@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 //updateMember()
 // 정보수정
-public class DaoTest4 {
+public class DaoTest4_update {
     static Connection conn = null;
     static PreparedStatement pstmt = null;
     static ResultSet rs = null;

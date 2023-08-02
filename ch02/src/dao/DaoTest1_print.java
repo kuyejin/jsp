@@ -9,7 +9,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DaoTest1 {
+public class DaoTest1_print {
     static Connection conn = null;
     static PreparedStatement pstmt = null;
     static ResultSet rs = null;

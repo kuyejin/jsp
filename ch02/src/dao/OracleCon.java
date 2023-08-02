@@ -2,14 +2,14 @@ package dao;
 
 import java.sql.*;
 
-public class MariaDBCon implements DBC {
-    final String DRIVER = "org.mariadb.jdbc.Driver"; // 클래스 이름
+public class OracleCon implements DBC {
+    final String DRIVER = "org.Oracle.jdbc.Driver"; // 클래스 이름
     final String DNS = "localhost";
     final String PORT = "3306";
     final String NAME = "edu"; // db네임
     final String USER = "root";  //유저이름
     final String PASS = "1234";  //비밀번호
-    final String URL = "jdbc:mariadb://" + DNS + ":" + PORT + "/" + NAME;
+    final String URL = "jdbc:oracle://" + DNS + ":" + PORT + "/" + NAME;
 
 
     Connection conn = null;

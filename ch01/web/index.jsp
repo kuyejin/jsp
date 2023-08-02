@@ -38,5 +38,9 @@
 
 <a href="test06.jsp">Response_로그인창</a><br>
 <a href="test07.jsp">jsp객체</a><br>
+<a href="test08.jsp">pageContext</a><br>
+
+
+
 </body>
 </html>
